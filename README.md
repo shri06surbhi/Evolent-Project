@@ -27,10 +27,10 @@ Minimum Contact model fields:
 # How to use-
 
 1. Clone this project into your eclipse/STS.
-git clone https://github.com/shri06surbhi/Evolent-Project.git
+- git clone https://github.com/shri06surbhi/Evolent-Project.git
 2. You need to change database details in below files according to your db to connect to your database.
  - "MvcConfiguration.java" file-   /SpringMvcJdbcTemplate/src/main/java/com/spring/contact/config/MvcConfiguration.java 
- and update the respective dependency in "pom.xml" file-  /SpringMvcJdbcTemplate/pom.xml
+ - and update the respective dependency in "pom.xml" file-  /SpringMvcJdbcTemplate/pom.xml
 3. Create a table "contact" by using mysql script attached in sql folder. - /SpringMvcJdbcTemplate/sql/MySQL_script.sql
 4. Build the project using maven build.
 5. Run the project on Tomcat server. 
