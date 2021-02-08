@@ -31,6 +31,7 @@ Minimum Contact model fields:
 2. You need to change database details in below files according to your db to connect to your database.
  - "MvcConfiguration.java" file-   /SpringMvcJdbcTemplate/src/main/java/com/spring/contact/config/MvcConfiguration.java 
  - and update the respective dependency in "pom.xml" file-  /SpringMvcJdbcTemplate/pom.xml
-3. Create a table "contact" by using mysql script attached in sql folder. - /SpringMvcJdbcTemplate/sql/MySQL_script.sql
-4. Build the project using maven build.
+3. Create a table "contact" by using mysql script attached in sql folder.
+ - /SpringMvcJdbcTemplate/sql/MySQL_script.sql
+4. Build the project through maven build.
 5. Run the project on Tomcat server. 
