@@ -1,7 +1,7 @@
 # Evolent Health Project- Contact Module
 
 Evolent Health - Contact Module for manage contact list.
-Implement ContactManager using Spring Framework 4.0, Spring MVC 4.0, Java 1.7, Maven, Spring JDBC 4.0, Tomcat 8.5, Java Servlet 3.1, JSP 2.3, JSTL, MySql (MySQL Workbench 8.0) and HTML/CSS/JS.
+Implement ContactManager using-  Spring Framework 4.0, Spring MVC 4.0, Java 1.7, Maven, Spring JDBC 4.0, Tomcat 8.5, Java Servlet 3.1, JSP 2.3, JSTL, MySql (MySQL Workbench 8.0) and HTML/CSS/JS.
 
 
 # About the Project
