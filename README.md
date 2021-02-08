@@ -23,6 +23,8 @@ Minimum Contact model fields:
 - Phone Number
 - Status (Possible values: Active/Inactive)
 
+Aditinally added-
+- Address
 
 # How to use-
 
